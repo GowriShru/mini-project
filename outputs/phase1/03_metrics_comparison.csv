@@ -1,0 +1,6 @@
+Metric,Before Federated,After Federated,Improvement
+Accuracy,1.0000,0.9984,+-0.16%
+Precision (macro),1.0000,0.9971,+-0.29%
+Recall (macro),1.0000,0.9978,+-0.22%
+F1-Score (macro),1.0000,0.9975,+-0.25%
+AUC-ROC (macro),1.0000,1.0000,+-0.00%
